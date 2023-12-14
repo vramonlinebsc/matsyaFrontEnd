@@ -1,0 +1,27 @@
+{
+  "name": "2023-12-14",
+  "version": "1.0.0",
+  "description": "\"email_extraction\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vramonlinebsc/matsyaFrontEnd.git"
+  },
+  "keywords": [
+    "display"
+  ],
+  "author": "Venkatesh Ramakrishnan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vramonlinebsc/matsyaFrontEnd/issues"
+  },
+  "homepage": "https://github.com/vramonlinebsc/matsyaFrontEnd#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "googleapis": "^129.0.0",
+    "uuid": "^9.0.1"
+  }
+}
